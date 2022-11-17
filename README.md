@@ -1,9 +1,9 @@
 # kd.martin518@gmail.com
 
-# Links
+## Links
 
-- [View my resume](https://docs.google.com/document/d/1El2vVYEo1wF1L6a0XiJLExENeYUHnhtzeHNWFl7H-y8/edit?usp=sharing)
-- [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-martin-data-analyst/)
+- [Resume](https://docs.google.com/document/d/1El2vVYEo1wF1L6a0XiJLExENeYUHnhtzeHNWFl7H-y8/edit?usp=sharing)
+- [Linkedin](https://www.linkedin.com/in/kevin-martin-data-analyst/)
 
 ## Projects
 
