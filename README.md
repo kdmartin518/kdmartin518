@@ -1,13 +1,14 @@
-# Resume
+# [Resume](https://docs.google.com/document/d/1El2vVYEo1wF1L6a0XiJLExENeYUHnhtzeHNWFl7H-y8/edit?usp=sharing)
 
-- [Resume](https://docs.google.com/document/d/1El2vVYEo1wF1L6a0XiJLExENeYUHnhtzeHNWFl7H-y8/edit?usp=sharing)
-- [Linkedin](https://www.linkedin.com/in/kevin-martin-data-analyst/)
+# Links
 
-# Projects
+## [Linkedin](https://www.linkedin.com/in/kevin-martin-data-analyst/)
+
+## Projects
 
 - [Google Data Analytics Capstone](https://github.com/kdmartin518/Google_Data_Analytics_Capstone)
 
-# Contact me
+## Contact me
 
 - [kd.martin518@gmail.com]
 
