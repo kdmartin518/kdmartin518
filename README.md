@@ -8,6 +8,7 @@
 ## Projects
 
 - [Google Data Analytics Capstone](https://github.com/kdmartin518/Google_Data_Analytics_Capstone)
+- [R Personal Finance](https://github.com/kdmartin518/RPersonalFinance) | [(R Notebook Demo)](https://kdmartin518.github.io/RPersonalFinance/)
 
 
 
